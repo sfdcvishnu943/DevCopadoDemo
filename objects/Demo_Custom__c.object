@@ -188,6 +188,7 @@
  Field_One__c,
  ISBLANK(Field_Two__c)
 )</errorConditionFormula>
+
         <errorMessage>Please enter Field two if Field one is checked.</errorMessage>
     </validationRules>
 </CustomObject>
